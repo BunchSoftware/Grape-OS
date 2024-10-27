@@ -1,0 +1,19 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "\u041B\u043E\u043A\u0430\u043B\u044C\u043D\u044B\u0439 \u043A\u043E\u043C\u043F\u044C\u044E\u0442\u0435\u0440": [
+      "..\\bin\\build\\x64-debug",
+      "..\\bin\\install\\x64-debug",
+      "..\\bin\\build\\x64-release",
+      "..\\bin\\install\\x64-release",
+      "..\\bin\\build\\x86-debug",
+      "..\\bin\\install\\x86-debug",
+      "..\\bin\\build\\x86-release",
+      "..\\bin\\install\\x86-release"
+    ]
+  },
+  "ExpandedNodes": [
+    ""
+  ],
+  "SelectedNode": "\\F:\\Files\\GrapeOS\\src\\CMakeLists.txt\\BuildGrapeOS.exe\\kernel.asm",
+  "PreviewInSolutionExplorer": false
+}

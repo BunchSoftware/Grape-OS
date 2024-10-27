@@ -1,0 +1,8 @@
+# ninja log v5
+3	762	7389188566106612	CMakeFiles/GrapeOS.dir/GrapeOS.obj	b1ef642c8550abc6
+15	1480	7389960329140241	CMakeFiles/GrapeOS.dir/GrapeOS.cpp.obj	c0d86be50a610310
+2	137	7390387586728307	build.ninja	6c8b67b955a09409
+1307	1556	7390068604790793	BuildGrapeOS.exe	7d8eed55324d39af
+1	11	0	clean	136d8776995b9143
+11	323	7390026368004375	CMakeFiles/GrapeOS.dir/BuildGrapeOS.cpp.obj	384749baee8b4835
+13	1306	7390068602950374	CMakeFiles/BuildGrapeOS.dir/BuildGrapeOS.cpp.obj	cbb7f53f464278c6
